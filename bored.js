@@ -5,7 +5,7 @@ function bored(person) {
             activity.open("GET", "https://www.boredapi.com/api/activity?participants=1");
             break;
         case 2:
-            people = Math.floor(Math.random() * 5) + 2;
+            people = Math.floor(Math.random() * 4) + 2;
             activity.open("GET", "https://www.boredapi.com/api/activity?participants=".concat(people));
             break;
     }
