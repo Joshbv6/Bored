@@ -177,11 +177,11 @@ body{
 .container {
     position: absolute;
     top: 40%;
-    left: 40%;    
+    left: 39%;    
 }
 
 .question {
-    margin-left: -50px;
+    margin-left: -60px;
 }
 .activity {
     margin-left: 100px;
