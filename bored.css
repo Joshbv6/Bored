@@ -242,7 +242,7 @@ i+i {
 @media screen and (max-device-width: 415px) {
     .container {
         position: absolute;
-        top: 40%;
+       	top: 35%;
         left: 14%;     
     }
     .question {
