@@ -239,3 +239,18 @@ i+i {
         text-align: left;
     }
 }
+@media screen and (max-device-width: 415px) {
+    .container {
+        position: absolute;
+        top: 40%;
+        left: 20%;    
+    }
+    .question {
+        margin-left: -40px;
+    }
+    .activity {
+        margin-left: 100px;
+        margin-top: -21.5px;
+        text-align: left;
+    }
+}
